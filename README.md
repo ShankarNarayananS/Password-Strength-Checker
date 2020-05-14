@@ -29,7 +29,7 @@
 
 <h3> Anybody who wants to safeguard their digital identity can start by making a strong password, as statistically strong passords are virtually impossible to crack using conventional methods and even the fastest server in the world can take close to 90 years to crack it</h4>
 
-<h2> How should I go about it ? </h2>
+<h1> How should I go about it ? </h1>
 <h4>1. Download this repository</h4>
 <h4>2. Open index.html </h4>
 <h4>3. Type your password </h4>
