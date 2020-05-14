@@ -25,11 +25,16 @@
 
 </h3>
 
-<h3> If you don't know the answer to any one of the questions, then your password won't be safe for long no matter what service you use to store them like LastPass, Dashlane, 1Password because to use these services U NEED A STRONG PASSWORD TO ACTUALLY KEEP ALL YOUR PASSWORDS SAFE</h3>
+<h3> If you don't know the answer to any one of the questions, then your password won't be safe for long no matter what service you use to store them like LastPass, Dashlane, 1Password etc</h3>
 
-<h3> It's kind of a irony, A PASSWORD TO SAVE A BUNCH OF PASSWORDS. So it is our responsibilty to generate a STRONG MASTER PASSWORD</h3>
+<h3> It's kind of an irony, A PASSWORD TO SAVE A BUNCH OF PASSWORDS. So it is our responsibilty to generate a STRONG MASTER PASSWORD</h3>
 
-<h3> Anybody who wants to safeguard their digital identity can start by making a strong password, as statistically strong passords are virtually impossible to crack using conventional methods and even the fastest server in the world can take close to 90 years to crack it</h4>
+<p align="center">
+<img src="https://github.com/ShankarNarayananS/Password-Strength-Checker/blob/master/password_time_and_length.jpg">
+</p>
+
+<h3> So you get the idea, it takes a long time to crack these passwords by todays standards </h3>
+
 
 <h1> How should I go about it ? </h1>
 <h4>1. Download this repository</h4>
