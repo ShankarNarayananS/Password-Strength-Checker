@@ -35,3 +35,5 @@
 <h4>3. Type your password </h4>
 <h4>4. Notice the meter and the suggestions below </h4>
 <h4>5. Make the corrections and you have your own strong password to use </h4>
+
+<h2> Or you can simply click <a href=https://priceless-noether-8a6b0f.netlify.app/>here</a></h2>
