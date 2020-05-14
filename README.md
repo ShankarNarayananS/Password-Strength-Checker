@@ -25,7 +25,9 @@
 
 </h3>
 
-<h3> If you don't know the answer to any one of the questions, then your password won't be safe for long no matter what service you use to store them </h3>
+<h3> If you don't know the answer to any one of the questions, then your password won't be safe for long no matter what service you use to store them like LastPass, Dashlane, 1Password because to use these services U NEED A STRONG PASSWORD TO ACTUALLY KEEP ALL YOUR PASSWORDS SAFE</h3>
+
+<h3> It's kind of a irony, A PASSWORD TO SAVE A BUNCH OF PASSWORDS. So it is our responsibilty to generate a STRONG MASTER PASSWORD</h3>
 
 <h3> Anybody who wants to safeguard their digital identity can start by making a strong password, as statistically strong passords are virtually impossible to crack using conventional methods and even the fastest server in the world can take close to 90 years to crack it</h4>
 
